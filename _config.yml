@@ -53,21 +53,8 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
   - title: Proyectos # Title for the section
-    layout: list # Type of content section (list/text)
+    layout: text # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           He desarrollado dos proyectos en Python, precisamente con la librería Flet, un framework basado en flutter, adaptado a python.
           
@@ -77,28 +64,22 @@ content:
   - title: Educación # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+     - layout: right
+        title: Centro Universitario de Ciencias Exactas e Ingenierías
+        caption: 2022 - presente
+        sub_title: Ingeniería Informática
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+         Cuando ingresé a la carrera, tenia la idea de lo que iba a tratar, sin embargo no tenia conocimiento de nada. Siempre me ha gustado resolver problemas lógicos, las matemáticas y el diseño, lo cualfue lo que me hizo decidirme a meterme en Ingeniería, en especial la informática, ya que abordan algunos aspectos de los que me gustan, en el desarrollo web, programación, entre otras cosas.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-  - title: A Little More About Me
+  - title: Más sobre mi.
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+     Mis pasatiempos y hobbies
+     - Me encanta la música, creo escuchar la mayor parte de mi tiempo, me puede gustar todo tipo de música, pero le tengo preferencia la música Hip-Hop, rap y rock.
+     - Disfruto leer, en especial temas relacionados sobres psicología. Siempre es algo bueno llevarse conocimiento de vez en cuando en algunos aspectos que no le damos tanta preferencia y
+     ver los distintos puntos de vista que tienen las personas. Siempre permanezco dmanera neutral en estos temas, ya que considero que cada persona funciona de manera diferente.
+     - Me gusta jugar videojuegos, especialmente con amigos, aca tampoco tengo preferencias por ningún videojuego, simplemente busco algo que me genere diversión y risas.
+     - El ejercicio también forma parte de mi rutina, aunque no me enfoco en esto al 100%, realmente disfruto hacerlo
 
 # Footer
 footer_show_references: true
