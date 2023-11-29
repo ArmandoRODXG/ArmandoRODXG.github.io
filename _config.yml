@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
   el backend y frontend, además de que quiero desarrollar aplicaciones para celular.
 
 content:
-  - title: Projectos # Title for the section
+  - title: Proyectos # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -74,27 +74,7 @@ content:
           Proyecto 1: Plataforma Educativa de Recursos: Una aplicación que permite a los usuarios subir y compartir productos educativos como recursos, libros, audiolibros y cursos.
           Proyecto 2: MetaCalor - Seguimiento de Calorías y Actividades: Una aplicación diseñada para registrar alimentos y ejercicios, realizando un seguimiento de las calorías consumidas y quemadas. Funciones incluyen el registro de comidas, generación de informes y establecimiento de metas para motivar a los usuarios en su dieta y rutina de ejercicios. Además, se plantea la idea de llevar un registro de competencias, mostrandolo en un leadeboard para fomentar la constancia en el cumplimiento de objetivos, para mantener al usuario motivado.
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-          He desarrollado dos proyectos en Python, precisamente con la librería Flet, un framework basado en flutter, adaptado a python.
-          Proyecto 1: Plataforma Educativa de Recursos
-            Una aplicación que permite a los usuarios subir y compartir productos educativos como recursos, libros, audiolibros y cursos.
-          Proyecto 2: MetaCalor - Seguimiento de Calorías y Actividades
-            Una aplicación diseñada para registrar alimentos y ejercicios, realizando un seguimiento de las calorías consumidas y quemadas.
-            Funciones incluyen el registro de comidas, generación de informes y establecimiento de metas para motivar a los usuarios en su dieta y rutina de ejercicios.
-            Además, se plantea la idea de llevar un registro de competencias, mostrandolo en un leadeboard para fomentar la constancia en el cumplimiento de objetivos, para mantener al usuario motivado.
-
-  - title: Education # Title for the section
+  - title: Educación # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
