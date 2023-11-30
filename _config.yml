@@ -45,7 +45,7 @@ additional_links:
 
 # About Section
 about_title:
-about_profile_image: images/profile.jpg
+about_profile_image: images/perfil.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hola, mi nombre es Armando Rodarte Treto, estoy estudiando la carrera de ingeniería informática, siendo de 5to semestre. He realizado diversos proyectos básicos a lo largo de
   la carrera con C y C++, apenas me estoy adentrando a mas lenguajes y tecnologías como PostgreSQL, Python, HTML, CSS y JS. Por el momento me ha llamado la atención
