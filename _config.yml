@@ -47,9 +47,9 @@ additional_links:
 about_title:
 about_profile_image: images/perfil.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hola, mi nombre es Armando Rodarte Treto, estoy estudiando la carrera de ingeniería informática, siendo de 5to semestre. He realizado diversos proyectos básicos a lo largo de
-  la carrera con C y C++, apenas me estoy adentrando a mas lenguajes y tecnologías como PostgreSQL, Python, HTML, CSS y JS. Por el momento me ha llamado la atención
-  el backend y frontend, además de que quiero desarrollar aplicaciones para celular.
+  Hola, mi nombre es Armando Rodarte Treto, estudiante de ingeniería informática. He realizado diversos proyectos básicos a lo largo de
+  la carrera con C y C++. Recientemente he estado adentrandome a mas lenguajes, tecnologías y herramientas como MySQL, Firebase, Pusher, Python, HTML, CSS y JS. Por el momento me ha llamado la atención
+  el backend y frontend aunque también me gusta todo lo referente a las bases de datos y ciberseguridad.
 
 content:
   - title: Proyectos # Title for the section
@@ -61,8 +61,11 @@ content:
           
      ![CC](/images/CuceiComparte.jpg "CC")
           
-     Proyecto 2: MetaCalor - Seguimiento de Calorías y Actividades: Una aplicación diseñada para registrar alimentos y ejercicios, realizando un seguimiento de las calorías consumidas y quemadas. Funciones incluyen el registro de comidas, generación de informes y establecimiento de metas para motivar a los usuarios en su dieta y rutina de ejercicios y un sistema de competencias entre amigos.
+     Proyecto 2: MetaCalor - Seguimiento de Calorías y Actividades: Una aplicación diseñada para registrar alimentos y ejercicios, realizando un seguimiento de las calorías consumidas y quemadas. Funciones incluyen el registro de comidas, generación de informes y establecimiento de metas para motivar a los usuarios en su dieta.
+     
      ![MetaClr](/images/MetaCalor.jpg "MetaClr")
+
+     Este proyecto lo realize junto con compañeros de la carrera, lo cual fue una gran introducción a lo que es el trabajo el equipo, algo que disfruté mucho.
 
   - title: Educación # Title for the section
     layout: list # Type of content section (list/text)
@@ -73,8 +76,7 @@ content:
         sub_title: Ingeniería Informática
         description: | # this will include new lines to allow paragraphs
          Cuando ingresé a la carrera, tenia la idea de lo que iba a tratar, sin embargo no tenia conocimiento de nada. Siempre me ha gustado resolver problemas lógicos, las matemáticas y el diseño, lo cual
-         fue lo que me hizo decidirme a meterme en Ingeniería, en especial la informática, ya que abordan algunos aspectos de los que me gustan, en el desarrollo web, programación, entre otras cosas.
-         Hoy mas que núnca estoy seguro que es esto a lo que me quiero dedicar al haber desarrollado los proyectos anteriormente mencionados.
+         fue lo que me hizo decidirme a meterme en Ingeniería Informática, ya que abordan algunos aspectos de los que me gustan, en el desarrollo web, programación, entre otras cosas.
 
   - title: Más sobre mi.
     layout: text
