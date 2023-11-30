@@ -13,21 +13,6 @@ Sitio Web: https://armandorodxg.github.io
 # Dark Mode (true/false/never)
 darkmode: false
 
-# Social links
-twitter_username: facespics
-github_username:  sproogen
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
-
 # Additional icon links
 additional_links:
 - title: itsgoingto.be
@@ -44,7 +29,7 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_title:
+about_title: Qué tal :D
 about_profile_image: images/perfil.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hola, mi nombre es Armando Rodarte Treto, estudiante de ingeniería informática. He realizado diversos proyectos básicos a lo largo de
